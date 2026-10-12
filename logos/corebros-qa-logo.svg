@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="230" height="280" viewBox="0 0 23 28"><image width="23" height="28" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAMAAAC9M9RRAAAAb1BMVEX////3saDxa0DzjHDydlHuPAD0k3jvSwDuPwD0ln3vTQDvUAD1nYbuRQDwYCz74Nr1oIrwWyH86eXtKgD1pI/vVBH+9PH85eD2rJnvTwD3t6f98e75x7r4wLPuNwDuSAD5zML4vK7wZjbwXSfxckub6J6aAAAA9UlEQVR4AW3OVWLEMAxF0TfgOpWGJ8zQ/a+xksPgP58beJjOCcfnfDn2q/k5duv9Hn6H2Nz2fLuzfTx3n3p5bN/4fF9r9oUD4ON5/oqNcAhEhk08cyzMwkBiF+EknDhGSBJOExMpp6EESxr0JmwzAPk3B5BpSIGiZKocl1y6UBGXBThJSLkumbmsNdgkYbyTezPwGJp78h69tc5tO3vlu4Gk7Hb5lXhHbBr0A8kqN4apQ3bX37sdle5yA+8Z8BnD5+8z8gd690iX9ycX9hwDkQYdCNTKEbAOysnMEkzCJk5jw4l5zgw8JVT3as1j4B1rqMSrif8BZh0Ue55opEYAAAAASUVORK5CYII="/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 85.9 85.9">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #ef5000;
+      }
+    </style>
+  </defs>
+  <g id="Solid">
+    <g>
+      <polygon class="st1" points="44 61.2 54.9 50.3 54.9 48.3 44.6 38 44.6 34.7 31 48.3 31 50.3 41.9 61.2 44 61.2"/>
+      <polygon class="st1" points="11.3 42.9 11.3 55.6 36.6 80.9 49.3 80.9 74.6 55.6 74.6 42.9 49.3 17.6 49.3 30.3 65.1 46.1 65.1 52.4 46.1 71.4 39.8 71.4 20.8 52.4 20.8 46.1 49.3 17.6 36.6 5 36.6 17.6 11.3 42.9"/>
+    </g>
+  </g>
+  <rect class="st0" width="85.9" height="85.9"/>
+</svg>
